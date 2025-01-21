@@ -1,0 +1,37 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastLightColorTheme": "Default Light+",
+  "workbench.preferredLightColorTheme": "Default Light+",
+  "editor.fontSize": 14,
+  "workbench.colorTheme": "Default Dark+",
+  "liveServer.settings.port": 0,
+  "terminal.integrated.env.osx": {},
+  "console-ninja.featureSet": "Community",
+  "git.autofetch": true,
+  "continue.enableTabAutocomplete": false,
+  "git.confirmSync": false,
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}
